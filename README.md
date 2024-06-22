@@ -159,3 +159,9 @@
   - **Duration:** 09/2023 - 03/2024
   - **Platform:** Udemy
   - **Description:** Detailed training in web development covering both front-end and back-end technologies.
+
+<h1>Projects:</h1>
+
+| Project                                         | Technologies Used        | Link |
+|-----------------------------------------------|----------------------------|------|
+|Basic HTML Website - BOOKNOOK                  |HTML                        |https://github.com/Panca2022/BookNook-HTML|
