@@ -162,8 +162,9 @@
 
 <h1>Projects:</h1>
 
-| Project                                         | Technologies Used        | Link |
+| Project                                       | Technologies Used        | Link |
 |-----------------------------------------------|----------------------------|------|
 |Basic HTML Website - BOOKNOOK                  |HTML                        |https://github.com/Panca2022/BookNook-HTML|
 |Web App - Car Game                             |HTML, CSS, Java Script      |https://github.com/Panca2022/Car_Game|
 |Sentimental Analysis for Intel Products        |Python, Machine Learning    |https://github.com/Panca2022/Sentimental-Analysis|
+|Melanonma Skin Cancer Detection                |Python, Machine Learning, Artificial Intelligence     |https://github.com/Panca2022/MelanomaAI-Skin-Cancer-Detection|
